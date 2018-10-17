@@ -1,6 +1,6 @@
-# gallery
+# store
 
-> A gallery portfolio
+> A Vue.js project
 
 ## Build Setup
 
